@@ -1,0 +1,238 @@
+{
+ "Quarterly!B3": "Airbnb, Inc.",
+ "Quarterly!B4": "ABNB",
+ "Quarterly!D7": {
+  "date": "2025-12-31"
+ },
+ "Quarterly!G7": {
+  "date": "2026-06-30"
+ },
+ "Quarterly!D8": {
+  "text": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm",
+  "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm"
+ },
+ "Quarterly!G8": {
+  "text": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000027/abnb-20260630.htm",
+  "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000027/abnb-20260630.htm"
+ },
+ "Quarterly!G9": 2,
+ "Quarterly!B11": 9917,
+ "Quarterly!C11": 11102,
+ "Quarterly!D11": 12241,
+ "Quarterly!F11": 5368,
+ "Quarterly!G11": 6286,
+ "Quarterly!B12": 1703,
+ "Quarterly!C12": 1878,
+ "Quarterly!D12": 2086,
+ "Quarterly!F12": 1050,
+ "Quarterly!G12": 1214,
+ "Quarterly!B14": 4974,
+ "Quarterly!C14": 4615,
+ "Quarterly!D14": 5257,
+ "Quarterly!F14": 2490,
+ "Quarterly!G14": 2918,
+ "Quarterly!B15": 1722,
+ "Quarterly!C15": 2056,
+ "Quarterly!D15": 2354,
+ "Quarterly!F15": 1178,
+ "Quarterly!G15": 1310,
+ "Quarterly!B16": 0,
+ "Quarterly!C16": 0,
+ "Quarterly!D16": 0,
+ "Quarterly!F16": 0,
+ "Quarterly!G16": 0,
+ "Quarterly!B19": 1518,
+ "Quarterly!C19": 2553,
+ "Quarterly!D19": 2544,
+ "Quarterly!F19": 650,
+ "Quarterly!G19": 844,
+ "Quarterly!B21": 0,
+ "Quarterly!C21": 0,
+ "Quarterly!D21": 0,
+ "Quarterly!F21": 11,
+ "Quarterly!G21": 58,
+ "Quarterly!B22": 584,
+ "Quarterly!C22": 778,
+ "Quarterly!D22": 593,
+ "Quarterly!F22": 313,
+ "Quarterly!G22": 392,
+ "Quarterly!B24": -2690,
+ "Quarterly!C24": 683,
+ "Quarterly!D24": 626,
+ "Quarterly!F24": 156,
+ "Quarterly!G24": 202,
+ "Quarterly!B26": 4792,
+ "Quarterly!C26": 2648,
+ "Quarterly!D26": 2511,
+ "Quarterly!F26": 796,
+ "Quarterly!G26": 976,
+ "Quarterly!B31": 44,
+ "Quarterly!C31": 65,
+ "Quarterly!D31": 91,
+ "Quarterly!F31": 46,
+ "Quarterly!G31": 39,
+ "Quarterly!B32": 1120,
+ "Quarterly!C32": 1407,
+ "Quarterly!D32": 1592,
+ "Quarterly!F32": 782,
+ "Quarterly!G32": 897,
+ "Quarterly!B33": 971,
+ "Quarterly!C33": 16,
+ "Quarterly!D33": 70,
+ "Quarterly!F33": -18,
+ "Quarterly!G33": 0,
+ "Quarterly!B35": 3653,
+ "Quarterly!C35": 4041,
+ "Quarterly!D35": 4297,
+ "Quarterly!F35": 1460,
+ "Quarterly!G35": 1780,
+ "Quarterly!B39": 3884,
+ "Quarterly!C39": 4518,
+ "Quarterly!D39": 4646,
+ "Quarterly!F39": 2764,
+ "Quarterly!G39": 2978,
+ "Quarterly!B40": -47,
+ "Quarterly!C40": -34,
+ "Quarterly!D40": -33,
+ "Quarterly!F40": -21,
+ "Quarterly!G40": -21,
+ "Quarterly!B42": 720,
+ "Quarterly!C42": -67,
+ "Quarterly!D42": -106,
+ "Quarterly!G45": 6821,
+ "Quarterly!G46": 5248,
+ "Quarterly!G47": 0,
+ "Quarterly!G48": 2476,
+ "Quarterly!G51": 597,
+ "Quarterly!G54": 4095,
+ "Quarterly!A77": "4.40% Senior Notes due Mar-2029",
+ "Quarterly!B77": 850,
+ "Quarterly!C77": 0.044,
+ "Quarterly!D77": {
+  "date": "2029-03-16"
+ },
+ "Quarterly!L77": {
+  "text": "10-Q Q2'26, Note: Debt (no TRACE price entered \u2192 coupon)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000027/abnb-20260630.htm"
+ },
+ "Quarterly!A78": "4.65% Senior Notes due Mar-2031",
+ "Quarterly!B78": 850,
+ "Quarterly!C78": 0.0465,
+ "Quarterly!D78": {
+  "date": "2031-03-16"
+ },
+ "Quarterly!L78": {
+  "text": "10-Q Q2'26, Note: Debt (no TRACE price entered \u2192 coupon)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000027/abnb-20260630.htm"
+ },
+ "Quarterly!A79": "5.25% Senior Notes due Mar-2036",
+ "Quarterly!B79": 800,
+ "Quarterly!C79": 0.0525,
+ "Quarterly!D79": {
+  "date": "2036-03-16"
+ },
+ "Quarterly!L79": {
+  "text": "10-Q Q2'26, Note: Debt (no TRACE price entered \u2192 coupon)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000027/abnb-20260630.htm"
+ },
+ "Quarterly!L21": {
+  "text": "FY interest expense is inside 'Other expense, net' in the 10-K; YTD columns show it separately"
+ },
+ "Quarterly!L14": {
+  "text": "Operations & support + Sales & marketing + G&A"
+ },
+ "Quarterly!L15": {
+  "text": "Product development"
+ },
+ "Quarterly!L33": {
+  "text": "Acquisition impacts + lodging/transactional tax reserves + IPO stock-settlement (Adj. EBITDA reconciliation)"
+ },
+ "Quarterly!L31": {
+  "text": "D&A and capex from the MD&A Adj. EBITDA / FCF reconciliations (not separate lines on the CF statement)"
+ },
+ "Quarterly!L42": {
+  "text": "Prepaids & other assets + accrued expenses & other liabilities + unearned fees"
+ },
+ "DCF!P2": {
+  "date": "2026-10-01"
+ },
+ "DCF!B8": 0.04,
+ "DCF!B13": 158.56,
+ "DCF!B14": 0.355,
+ "DCF!L7": 4690,
+ "DCF!L8": 4770,
+ "DCF!L13": 14170,
+ "DCF!L14": 0.152,
+ "DCF!L15": 0.01,
+ "DCF!P6": 1.16,
+ "DCF!P7": 0.05,
+ "DCF!P9": 0.0526,
+ "DCF!C8": {
+  "text": "Fed longer-run real GDP (2.0%) + 2.0% inflation = long-term nominal GDP growth rate"
+ },
+ "DCF!C13": {
+  "text": "Closing price of ABNB on October 1, 2026"
+ },
+ "DCF!C14": {
+  "text": "Airbnb Q2'26 shareholder letter outlook: \"at least 35.5%\"",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001559720/000119312526337928/d70413dex991.htm"
+ },
+ "DCF!M7": {
+  "text": "Company outlook, Q2'26 shareholder letter (8-K Ex. 99.1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001559720/000119312526337928/d70413dex991.htm"
+ },
+ "DCF!M8": {
+  "text": "Same",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001559720/000119312526337928/d70413dex991.htm"
+ },
+ "DCF!M14": {
+  "text": "Analyst assumption: 16.2% less 1 pt (no company guidance past FY26)"
+ },
+ "DCF!M15": {
+  "text": "Growth slows 1 pt per year"
+ },
+ "DCF!Q6": {
+  "text": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/quote/ABNB/"
+ },
+ "DCF!Q7": {
+  "text": "Kroll (formerly Duff & Phelps) recommended ERP",
+  "url": "https://www.kroll.com/en/reports/cost-of-capital/recommended-us-equity-risk-premium-and-corresponding-risk-free-rates"
+ },
+ "DCF!Q9": {
+  "text": "FRED DGS10 close 2026-09-29",
+  "url": "https://fred.stlouisfed.org/series/DGS10"
+ },
+ "DCF!H19": {
+  "text": "Airbnb Q2'26 press release guides revenue growth to \"at least mid teens\". Beyond FY26: analyst assumption, growth slows 1 pt per year."
+ },
+ "DCF!H21": {
+  "text": "2026 guidance: at least 35.5%. Rises evenly to 36.8% (highest full-year margin FY23\u2013FY25 \u2013 a level already proven) as AI lowers support costs"
+ },
+ "Valuation Summary!K2": {
+  "text": "Marriott",
+  "url": "https://marriott.gcs-web.com/node/37511/pdf"
+ },
+ "Valuation Summary!L2": 28.8,
+ "Valuation Summary!M2": {
+  "text": "stockanalysis.com (S&P)",
+  "url": "https://stockanalysis.com/stocks/mar/statistics/"
+ },
+ "Valuation Summary!K3": {
+  "text": "Hilton",
+  "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568926000042/q22026earningsrelease.htm"
+ },
+ "Valuation Summary!L3": 33,
+ "Valuation Summary!M3": {
+  "text": "stockanalysis.com (S&P)",
+  "url": "https://stockanalysis.com/stocks/hlt/statistics/"
+ },
+ "Valuation Summary!B3": 6.25,
+ "Valuation Summary!C2": {
+  "text": "Average forward P/E of hotel brands Marriott & Hilton"
+ },
+ "Valuation Summary!C3": {
+  "text": "MarketWatch analyst estimate for FY27",
+  "url": "https://www.marketwatch.com/investing/stock/abnb/analystestimates"
+ }
+}

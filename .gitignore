@@ -1,0 +1,17 @@
+# Your own valuations and pulled filings - keep them out of the repo
+*_DCF.xlsx
+!examples/*.xlsx
+data/
+inputs*.json
+!examples/*.json
+recalculated/
+
+# Python / OS / editors
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+~$*
+.idea/
+.vscode/
